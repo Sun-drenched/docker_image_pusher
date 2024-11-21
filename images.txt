@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16:latest
+pgvector/pgvector:pg16
