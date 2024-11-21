@@ -1,1 +1,1 @@
-lobehub/lobe-chat-database:latest
+casbin/casdoor:latest
