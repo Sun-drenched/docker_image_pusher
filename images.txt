@@ -1,1 +1,1 @@
-lobehub/lobe-chat-database:latest
+pgvector/pgvector:pg16:latest
